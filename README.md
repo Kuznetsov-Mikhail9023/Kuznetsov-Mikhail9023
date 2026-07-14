@@ -11,20 +11,11 @@ I'm a Computer Engineering student at KPI (Kyiv Polytechnic Institute) specializ
 
 ## 🛠️ My Tech Stack & Tools
 
-### Languages & Databases
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/sql-00758F?style=for-the-badge&logo=postgresql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-00758F?style=for-the-badge&logo=postgresql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-### Business Intelligence & Tools
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-### Data & Analytics
-- **Languages:** Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn), SQL (PostgreSQL, DuckDB)
-- **BI Tools:** Power BI (DAX, Power Query), MS Excel, Google Sheets
-- **Databases & Infrastructure:** PostgreSQL, DuckDB, Git
+- **Languages & Frameworks:** Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn), SQL (PostgreSQL, DuckDB)
+- **BI & Analytics:** Power BI (DAX, Power Query), MS Excel, Google Sheets
+- **Databases & Tools:** PostgreSQL, DuckDB, Git
 
 ---
 
