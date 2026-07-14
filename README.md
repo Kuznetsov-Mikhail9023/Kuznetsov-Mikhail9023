@@ -5,7 +5,7 @@ I'm a Computer Engineering student at KPI (Kyiv Polytechnic Institute) specializ
 - 📊 **What I do:** Build end-to-end analytics pipelines, write optimized SQL queries, and design interactive BI dashboards to uncover business insights.
 - 🎓 **Education:** Bachelor of Science in Computer Engineering @ KPI (Expected graduation: June 2027)
 - 📍 **Location:** Kyiv, Ukraine (open to hybrid/remote)
-- ✉️ **Contact:** mykhailo.kuznetsov.ua@gmail.com (або вкажи ту нову пошту, яку ти причешеш під єдине ім'я)
+- ✉️ **Contact:** mykhailo.kuznetsov.ua@gmail.com
 
 ---
 
